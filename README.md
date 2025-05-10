@@ -3,8 +3,8 @@ This project uses a Self-Organizing Map (SOM) - an unsupervised machine learning
 
 ## 📁 Project Structure
 ```
-├── cluster.ipynb
 ├── .gitignore
+├── cluster.ipynb
 ├── README.md
 ├── requirements.txt
 ```
