@@ -1,4 +1,8 @@
-# Self-Organizing Maps for Customer Cluster Analysis
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db20243e-eade-4235-8c8b-bd7b54072530" height="125px"></img>
+</p>
+
+---
 This project uses a Self-Organizing Map (SOM) - an unsupervised machine learning clustering algorithm - to cluster customer data. The goal is to separate customers into distinct classes that capture similar behaviors and characteristics.
 
 ## 📁 Project Structure
